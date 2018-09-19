@@ -8,8 +8,18 @@ Edith Gonzalez
 
 I'm a senior here at CSUMB with major in Computer Science. One of my hobbies is to play with my two year old son. Also I like to spend my free time watching youtube makeup tutorials. 
 
+<<<<<<< HEAD
 * Name: Mayra Ochoa
 
 * Hobbies: Coding, crafts, cooking and learning.
 
 * Something interesthing about yourself: I look younger than my age, and I used to have more than 13 cats. 
+=======
+
+* name: Luis Valencia
+
+* hobby: Coding, watching youtube videos, playing indie/classic video games, listening to music
+
+* something interesting about yourself: I tried bacon ice cream this past summer - I dont recommend it.
+
+>>>>>>> 8c320472be4f9a6933b784d8995095013ac9853b
