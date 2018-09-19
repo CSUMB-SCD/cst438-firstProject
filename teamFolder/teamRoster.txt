@@ -7,3 +7,11 @@
 Edith Gonzalez
 
 I'm a senior here at CSUMB with major in Computer Science. One of my hobbies is to play with my two year old son. Also I like to spend my free time watching youtube makeup tutorials. 
+
+
+* name: Luis Valencia
+
+* hobby: Coding, watching youtube videos, playing indie/classic video games, listening to music
+
+* something interesting about yourself: I tried bacon ice cream this past summer - I dont recommend it.
+
